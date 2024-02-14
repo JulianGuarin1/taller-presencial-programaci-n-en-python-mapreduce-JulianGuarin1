@@ -146,7 +146,11 @@ def job(input_directory, output_directory):
     create_marker(output_directory)
 
 if __name__ == "__main__":
+     
      job(
+         
          "input",
+
          "output",
+         
      )
